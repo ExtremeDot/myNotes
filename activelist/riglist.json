@@ -2,23 +2,19 @@
   "file_info": {
     "version": 1,
     "created_date": "2023-04-13",
-    "created_by": "ultimate rig tuner"
+    "created_by": "Ultimate Rig Tuner 2019",
+    "credit": "UltimateRigTuner"
   },
   "rigs": [
     {
-      "rigname": "ABC-Worker1",
-      "uuid": "1234-5678-9012-3456",
-      "expiredate": "12/04/2023"
-    },
-    {
-      "uuid": "05293d35-f35c-0f8e-b8bb-6b9a1dcd0e2f",
-      "rigname": "05293-Rig1",
-      "expiredate": "13/04/2023"
+      "uuid": "e61ebcb14d72b7cf978f7cf2",
+      "rigname": "e61eb-Cobra11rx580",
+      "expiredate": "2033-06-21"
     },
     {
       "uuid": "d8f25fefbf07c7aaa5331649",
       "rigname": "d8f25-WhiteBox",
-      "expiredate": "2023-06-21"
+      "expiredate": "2033-06-21"
     }
   ]
 }
