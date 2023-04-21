@@ -14,6 +14,11 @@
       "uuid": "05293d35-f35c-0f8e-b8bb-6b9a1dcd0e2f",
       "rigname": "05293-Rig1",
       "expiredate": "13/04/2023"
+    },
+    {
+      "uuid": "d8f25fefbf07c7aaa5331649",
+      "rigname": "d8f25-WhiteBox",
+      "expiredate": "2023-06-21"
     }
   ]
 }
