@@ -8,5 +8,7 @@ sleep 1
 cd /tmp
 
 wget $ult_active_list
-
+sleep 2
+cat /tmp/riglist.json
+echo "-----------------------"
 sha256sum /tmp/riglist.json | awk '{print $1}'
