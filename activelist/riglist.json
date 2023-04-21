@@ -7,12 +7,6 @@
   },
   "rigs": [
     {
-      "uuid": "e61ebcb14d72b7cf978f7cf2",
-      "rigname": "e61eb-Cobra11rx580",
-      "netconfig": "0",
-      "expiredate": "2033-06-21"
-    },
-    {
       "uuid": "d8f25fefbf07c7aaa5331649",
       "rigname": "d8f25-WhiteBox",
       "netconfig": "1",
