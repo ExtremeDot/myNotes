@@ -17,6 +17,12 @@
       "rigname": "e61eb-Cobra11rx580",
       "netconfig": "1",
       "expiredate": "2033-06-21"
+    },
+    {
+      "uuid": "dd346ef4b971813d19813141",
+      "rigname": "dd346-R_Abbasi_6x580",
+      "netconfig": "1",
+      "expiredate": "2023-11-21"
     }
   ]
 }
