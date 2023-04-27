@@ -23,6 +23,13 @@
       "rigname": "dd346-R_Abbasi_6x580",
       "netconfig": "1",
       "expiredate": "2023-11-21"
+    },
+    {
+      "uuid": "05ac3f2fcbce44b097e15785",
+      "rigname": "05ac3-HasanGH1_10x580",
+      "lastip": "95.179.212.6",
+      "netconfig": "1",
+      "expiredate": "2023-12-07"
     }
   ]
 }
