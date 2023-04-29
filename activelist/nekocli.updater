@@ -1,0 +1,3 @@
+#!/bin/bash
+NEKOCLI_UPDATER_VER=1
+echo " HELLO"
