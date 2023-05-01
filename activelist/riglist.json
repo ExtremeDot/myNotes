@@ -30,6 +30,12 @@
       "lastip": "95.179.212.6",
       "netconfig": "1",
       "expiredate": "2023-12-07"
+    },
+    {
+      "uuid": "fb691cdc255d238c6c4a6c37",
+      "rigname": "fb691-eXtremeOS",
+      "netconfig": "1",
+      "expiredate": "2024-12-07"      
     }
   ]
 }
