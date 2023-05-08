@@ -42,6 +42,12 @@
       "rigname": "3196f-11X580",
       "netconfig": "default",
       "expiredate": "2023-10-25"
+    },
+    {
+      "uuid": "1e563c19adf0aa1a38e54fe7",
+      "rigname": "1e563-JihaProd",
+      "netconfig": "default",
+      "expiredate": "2033-10-25"
     }
   ]
 }
