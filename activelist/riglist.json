@@ -36,6 +36,12 @@
       "rigname": "fb691-eXtremeOS",
       "netconfig": "default",
       "expiredate": "2022-12-07"
+    },
+    {
+      "uuid": "3196f0cc4140911dfccb327a",
+      "rigname": "3196f-11X580",
+      "netconfig": "default",
+      "expiredate": "2023-10-25"
     }
   ]
 }
